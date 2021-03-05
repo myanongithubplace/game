@@ -2,7 +2,7 @@
 
 ## Web Available at
 
-https://alexvkcr.github.io/game
+https://myanongithubplace.github.io/game
 
 ## Project setup
 
